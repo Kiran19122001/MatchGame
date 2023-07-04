@@ -1,0 +1,21 @@
+.thumb-image {
+    height: 100px;
+    width: 100px;
+}
+
+.list-image-item {
+    list-style: none;
+}
+
+.list-of-images {
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    flex-wrap: wrap;
+}
+
+.image-buttons {
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}

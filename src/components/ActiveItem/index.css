@@ -1,0 +1,27 @@
+.active-tab-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active-tabactive {
+    color: #fec653;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    border-bottom: 1px solid #fec653;
+}
+
+.active-tab {
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.list-item {
+    margin-right: 10px;
+    list-style: none;
+}
